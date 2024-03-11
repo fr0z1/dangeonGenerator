@@ -1,0 +1,6 @@
+C:\Keil\C#\RoomsGenerator\RoomsGenerator\bin\Debug\RoomsGenerator.exe.config
+C:\Keil\C#\RoomsGenerator\RoomsGenerator\obj\Debug\RoomsGenerator.csprojResolveAssemblyReference.cache
+C:\Keil\C#\RoomsGenerator\RoomsGenerator\bin\Debug\RoomsGenerator.exe
+C:\Keil\C#\RoomsGenerator\RoomsGenerator\bin\Debug\RoomsGenerator.pdb
+C:\Keil\C#\RoomsGenerator\RoomsGenerator\obj\Debug\RoomsGenerator.exe
+C:\Keil\C#\RoomsGenerator\RoomsGenerator\obj\Debug\RoomsGenerator.pdb
